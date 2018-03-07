@@ -46,3 +46,5 @@ clean:
 	rm -rf *.o
 	rm -rf *.elf
 	rm -rf *.hex
+	rm -rf *.i
+	rm -rf *.s
