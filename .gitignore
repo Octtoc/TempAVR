@@ -1,0 +1,10 @@
+#Compiled Object Files
+*.o
+
+#Binary Files
+*.elf
+*.hex
+
+#Temporary Files
+*.s
+*.i
